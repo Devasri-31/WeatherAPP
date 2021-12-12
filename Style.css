@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #B8E4F0;
+}
+.cityInput{
+    text-align: center;
+    margin-top: 100px ;
+}
+input[type="text"]{
+    padding: 10px;
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    color : lightslategray;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+}
+input[type="submit"]{
+    padding: 10px;
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    color : white;
+    background-color: teal;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+}
+.report{
+    background-color: white;
+    height: 450px;
+    width: 600px;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 475px;
+    text-align: center;
+    padding-top: 20px;
+}
